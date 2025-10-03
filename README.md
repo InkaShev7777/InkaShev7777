@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F05138&center=true&vCenter=true&width=600&lines=iOS+Developer;SwiftUI+Lover;Game+Mechanics+Explorer;Always+Learning)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hi, I'm Ilya</h1>
-<h3 align="center">🚀 iOS Developer | Swift Enthusiast | App Builder</h3>
+<h3 align="center"> iOS Developer | Swift Enthusiast | App Builder</h3>
 
 ---
 
