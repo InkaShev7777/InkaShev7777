@@ -1,8 +1,8 @@
 <!-- 🌊 Animated Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=200&section=header&text=Ilya%20Shevchenko%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=220&section=header&text=Ilya%20Shevchenko%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F05138&center=true&vCenter=true&width=435&lines=iOS+Developer;SwiftUI+Lover;Game+Mechanics+Explorer;Always+Learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F05138&center=true&vCenter=true&width=600&lines=iOS+Developer;SwiftUI+Lover;Game+Mechanics+Explorer;Always+Learning)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hi, I'm Ilya</h1>
 <h3 align="center">🚀 iOS Developer | Swift Enthusiast | App Builder</h3>
@@ -32,32 +32,26 @@
 
 ---
 
-### ⚒️ Tech Stack
+### ⚒️ Tech Stack (animated icons)
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-  <br/>
+  <img src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/main/assets/animated-swift.gif" alt="Swift" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/main/assets/animated-swiftui.gif" alt="SwiftUI" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/main/assets/animated-xcode.gif" alt="Xcode" width="80" height="80"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/CoreData-4B8BBE?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (with animated previews)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/main/assets/demo-egg-farm.gif" width="260" alt="Egg Farm demo"/>
+  <img src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/main/assets/demo-olympian.gif" width="260" alt="Olympian demo"/>
+  <img src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/main/assets/demo-plane-signal.gif" width="260" alt="Plane Signal demo"/>
+</p>
+
 - 📱 [Egg Farm](https://github.com/inkashev7777/egg-farm) — fun SwiftUI app about chickens & eggs 🐔🥚  
 - ⚡ [Olympian Mirrors](https://github.com/inkashev7777/olympian-mirrors) — mythology-based puzzle game with lightning ⚡  
 - 🎮 [Lost Plane Signal](https://github.com/inkashev7777/lost-plane-signal) — puzzle game about restoring signal ✈️  
-
-<!-- GIF Previews -->
-<p align="center">
-  <img src="demo-egg-farm.gif" width="200" alt="Egg Farm demo"/>
-  <img src="demo-olympian.gif" width="200" alt="Olympian Mirrors demo"/>
-  <img src="demo-plane-signal.gif" width="200" alt="Lost Plane Signal demo"/>
-</p>
 
 ---
 
@@ -77,20 +71,27 @@
 
 ---
 
-### 🎉 Fun Extras
+### 🎉 Fun Extras & Animations
+
 - 🔥 Profile Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=inkashev7777&theme=tokyonight&row=1&column=6" alt="trophies"/>
 </p>
 
-- 🐍 Contribution Snake  
-![snake gif](https://github.com/inkashev7777/inkashev7777/blob/output/github-contribution-grid-snake.svg)
-
-- 🎬 Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🐍 **Contribution Snake** (dark/light mode)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inkashev7777/inkashev7777/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inkashev7777/inkashev7777/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/inkashev7777/inkashev7777/output/github-contribution-grid-snake.svg" width="720"/>
+</picture>
+</p>
 
 - 👀 Visitor Counter  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=inkashev7777.inkashev7777)
+
+- 🎬 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
