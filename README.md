@@ -1,4 +1,6 @@
-<!-- Banner / Header -->
+<!-- 🌊 Animated Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=200&section=header&text=Ilya%20Shevchenko%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 <h1 align="center">👋 Hi, I'm Ilya</h1>
 <h3 align="center">🚀 iOS Developer | Swift Enthusiast | App Builder</h3>
 
@@ -13,29 +15,27 @@
 ---
 
 ### 🔗 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ilya-shevchenko-380132300/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/ilya_shevchenko29/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/>
 </a>
 <a href="mailto:ilya.shevchenko.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email"/>
 </a>
 </p>
 
 ---
 
 ### ⚒️ Tech Stack
-<p>
-  <!-- iOS Focus -->
+<p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-
-  <!-- Backend / Other -->
+  <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/CoreData-4B8BBE?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -44,17 +44,39 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+- 📱 [Egg Farm](https://github.com/inkashev7777/egg-farm) — fun SwiftUI app about chickens & eggs 🐔🥚  
+- ⚡ [Olympian Mirrors](https://github.com/inkashev7777/olympian-mirrors) — mythology-based puzzle game with lightning ⚡  
+- 🎮 [Lost Plane Signal](https://github.com/inkashev7777/lost-plane-signal) — puzzle game about restoring signal ✈️  
+
+---
+
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inkashev7777&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkashev7777&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=inkashev7777&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkashev7777&layout=compact&theme=tokyonight" alt="langs" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inkashev7777&theme=tokyonight" alt="streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inkashev7777&theme=tokyo-night" alt="activity-graph"/>
+</p>
+
 ---
 
-### 🚀 Fun Fact
-I believe every great app starts with a simple idea – and a lot of **coffee ☕**
+### 🎉 Fun Extras
+- 🔥 Profile Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inkashev7777&theme=tokyonight&row=1&column=6" alt="trophies"/>
+</p>
+
+- 🎬 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=120&section=footer)
