@@ -1,6 +1,9 @@
 <!-- 🌊 Animated Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=200&section=header&text=Ilya%20Shevchenko%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F05138&center=true&vCenter=true&width=435&lines=iOS+Developer;SwiftUI+Lover;Game+Mechanics+Explorer;Always+Learning+new+things)](https://git.io/typing-svg)
+
 <h1 align="center">👋 Hi, I'm Ilya</h1>
 <h3 align="center">🚀 iOS Developer | Swift Enthusiast | App Builder</h3>
 
@@ -49,6 +52,13 @@
 - ⚡ [Olympian Mirrors](https://github.com/inkashev7777/olympian-mirrors) — mythology-based puzzle game with lightning ⚡  
 - 🎮 [Lost Plane Signal](https://github.com/inkashev7777/lost-plane-signal) — puzzle game about restoring signal ✈️  
 
+<!-- GIF Previews -->
+<p align="center">
+  <img src="demo-egg-farm.gif" width="200" alt="Egg Farm demo"/>
+  <img src="demo-olympian.gif" width="200" alt="Olympian Mirrors demo"/>
+  <img src="demo-plane-signal.gif" width="200" alt="Lost Plane Signal demo"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats & Activity
@@ -73,8 +83,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=inkashev7777&theme=tokyonight&row=1&column=6" alt="trophies"/>
 </p>
 
+- 🐍 Contribution Snake  
+![snake gif](https://github.com/inkashev7777/inkashev7777/blob/output/github-contribution-grid-snake.svg)
+
 - 🎬 Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+- 👀 Visitor Counter  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=inkashev7777.inkashev7777)
 
 ---
 
